@@ -1,0 +1,16 @@
+
+var name="Ashvini";
+console.log(typeof name);
+var age= 24;
+console.log(typeof age);
+console.log("==================================================================");
+var is_married = false;
+console.log(typeof is_married);
+var pin = 413305;
+console.log(typeof pin);
+// value of null or undefined
+var data;
+console.log("====================================================================");
+console.log(typeof data);
+var city = null;
+console.log(typeof city);
