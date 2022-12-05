@@ -7,4 +7,5 @@ for (const person of array) {
     if(person.age>=50) {
         console.log(` ${person.fullName}  ${person.city}  ${person.age} ${person.gender}  `);
     }
+    console.log(person);
 }

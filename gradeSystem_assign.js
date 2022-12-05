@@ -36,4 +36,35 @@ function gradeSystem (score){
 
 }
 console.log("score is 66");
-gradeSystem(66)
+gradeSystem(66);
+console.log("------------------------");
+console.log("score is 13");
+gradeSystem(13);
+console.log("---------------------------------------");
+console.log('score is" "');
+gradeSystem(" ");
+console.log("-----------------------------");
+console.log("score is 98");
+gradeSystem(98);
+console.log("-------------------------------");
+console.log("score is fifty five");
+gradeSystem("fifty five");
+console.log("--------------------");
+console.log("score is 35");
+gradeSystem(35);
+console.log("---------------------------");
+console.log("score is 75");
+gradeSystem(75);
+console.log("-----------------------------");
+console.log("score is null");
+gradeSystem(null);
+console.log("----------------------------------------");
+console.log("score is undefined");
+gradeSystem(undefined);
+console.log("------------------------------------");
+console.log("score is -20");
+gradeSystem(-20);
+console.log("-------------------------------");
+console.log("score is 55");
+gradeSystem(55);
+
